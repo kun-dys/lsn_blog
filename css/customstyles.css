@@ -1,5 +1,6 @@
 body {
     font-size:15px;
+    padding-top: 70px;
 }
 
 .bs-callout {
@@ -861,10 +862,28 @@ span.soft {
     }
 }
 
+/* 大屏幕下侧边栏固定 */
+@media (min-width: 991px) {
+    #mysidebar {
+        position: fixed; /* 固定定位 */
+        top: 10%; /* 顶部对齐 */
+        left: 2%; /* 左侧对齐 */
+        height: 120vh; /* 高度为视口高度 */
+        overflow-y: auto; /* 内容超出显示滚动条 */
+    }
+    #mysidebar a {
+        height: 25px;
+    }
+    /* 调整内容区域左边距，避免重叠 */
+    .col-md-9 {
+        margin-left: 15%; /* 假设侧边栏宽度 225px */
+    }
+}
+
 @media (min-width: 1000px) {
 
     ul#mysidebar {
-        width: 225px;
+        width: 250px;
     }
 }
 

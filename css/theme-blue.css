@@ -1,8 +1,31 @@
 .summary {
     color: #808080;
     border-left: 5px solid #ED1951;
-    font-size:16px;
+    font-size:18px;
 }
+/* 修改导航栏链接的字体大小 */
+.navbar-inverse .navbar-nav>li>a, .navbar-inverse .navbar-brand {
+    color: white;
+    font-size: 18px; /* 可以根据需要调整字体大小 */
+}
+
+/* 修改导航栏下拉菜单链接的字体大小 */
+div.navbar-collapse .dropdown-menu > li > a {
+    font-size: 16px; /* 可以根据需要调整字体大小 */
+}
+
+/* 修改侧边栏字体大小 */
+#mysidebar li a {
+    font-size: 18px; /* 可按需调整字体大小 */
+}
+
+/* 修改侧边栏标题字体大小 */
+#mysidebar .sidebarTitle {
+    font-size: 20px; /* 可按需调整标题字体大小 */
+    
+}
+
+
 
 
 h3 {color: #ED1951; }
