@@ -1,14 +1,23 @@
 ---
 title: "Ava's Woodworking Machinery Knowledge House"
 keywords: woodworking machine Ava knowledge
-tags: [getting_started]
+# tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: What you can get from here ？
+toc: false
 ---
-## What can you get from here?
-This site is a place to store information about my woodworking machines.
-## What is the purpose of this site?
-The purpose of this site is to help me keep track of my woodworking machines.
-## What is the future of this site?
-I plan on adding more information to this site in the future.
+我敬佩我的每一个客户，无论是与我合作的，还是未能合作的。  
+因为你们，勇敢且有眼界地迈出了第一步，跨越国界进行贸易。
+
+- **胸襟宽广**：你们有勇气、大气且富有魄力，敢于尝试新鲜事物，看到中国市场的潜力，明白在这里能找到高质量、物美价廉的产品。你们的眼界远超普通商人，为自己和企业争取到了更多的机会。
+
+- **商道精通**：你们深知如何把握每一个机会，最大化利益，拥有优秀的商业智慧和无限的潜力。你们知道做生意不仅仅是追求利润，更是找到值得信赖的合作伙伴和创造长远价值。
+
+- **信任与沟通**：你们相信人与人之间的磁场，始终保持着最基本的信任。在浩瀚的中国供应商中，你们用心挑选，选择最合适、最信任的合作方。你们不怕麻烦，亲自把关，努力实现资源最大化。
+
+- **超越障碍**：你们突破了地域、时间、语言的困难，始终保持良好的沟通，展现出令人钦佩的魄力和决心。
+
+在此，我由衷地向你们表达我的最深敬意和最真挚的祝福。你们的勇气、智慧与远见，不仅让我对你们敬佩不已，也让我在工作中感受到无尽的动力。  
+愿我们继续携手，共同成长，追求更好的未来！祝您生意兴隆，蒸蒸日上！
+
