@@ -225,12 +225,13 @@ ul#results-container a:hover {
 #search-input {
     padding: .5em;
     margin-left:20px;
-    width:20em;
+    width:10em;
     font-size: 0.8em;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     margin-top:10px;
+    float: right; 
 }
 /* end search */
 
@@ -863,7 +864,7 @@ span.soft {
 }
 
 /* 大屏幕下侧边栏固定 */
-@media (min-width: 991px) {
+@media (min-width: 1000px) {
     #mysidebar {
         position: fixed; /* 固定定位 */
         top: 10%; /* 顶部对齐 */
@@ -876,14 +877,14 @@ span.soft {
     }
     /* 调整内容区域左边距，避免重叠 */
     .col-md-9 {
-        margin-left: 15%; /* 假设侧边栏宽度 225px */
+        margin-left: 20%; /* 假设侧边栏宽度 225px */
     }
 }
 
 @media (min-width: 1000px) {
 
     ul#mysidebar {
-        width: 250px;
+        width: 310px;
     }
 }
 

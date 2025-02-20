@@ -1,8 +1,6 @@
-# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
-
 entries:
 - title: sidebar
-  product: Navigation
+  product: Навигация
   version: 
   folders:
 
@@ -19,91 +17,87 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Обзор
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Начало работы
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Введение
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Support
+    - title: Поддержка
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Push Table Saw Introduction
+  - title: Введение в пилу с толкателем
     output: web, pdf
     folderitems:
 
-    - title: Detailed analysis
+    - title: Подробный анализ
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: Purchase Guide
+    - title: Руководство по покупке
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Round Rod Machine Introduction
+  - title: Введение в машину для круглых палок
     output: web, pdf
     folderitems:
 
-    - title: Detailed analysis
+    - title: Подробный анализ
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: Video Demo
+    - title: Видеодемонстрация
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
-  - title: Woodworking Planer vs Band Saw
+  - title: Деревообрабатывающий строгальный станок против ленточной пилы
     output: web, pdf
 
     folderitems:
-    - title: Comparative analysis
+    - title: Сравнительный анализ
       url: /mydoc_pages.html
       output: web, pdf
 
-    - title: Purchase suggestions
+    - title: Рекомендации по покупке
       url: /mydoc_posts.html
       output: web, pdf
 
-  - title: Furniture Factory Equipment
+  - title: Оборудование для мебельной фабрики
     output: web, pdf
 
     folderitems:
-    - title: Equipment combination solution
+    - title: Решение по комбинированному оборудованию
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
 
-    - title: Actual cases
+    - title: Реальные примеры
       url: /mydoc_yaml_tutorial.html
       output: web, pdf
 
-  - title: Sander + tenon opening machine
+  - title: Лижатор + машина для открытия шипа
     output: web, pdf
 
     folderitems:
-    - title: Brief introduction
+    - title: Краткое введение
       url: /mydoc_adding_tooltips.html
       output: web, pdf
 
-    - title: Applicable industries
+    - title: Применимые отрасли
       url: /mydoc_alerts.html
       output: web, pdf
 
-  - title: Customer FAQ
+  - title: Часто задаваемые вопросы клиентов
     output: web, pdf
 
     folderitems:
-    - title: Interactive Q&A
+    - title: Интерактивные вопросы и ответы
       url: /mydoc_commenting_on_files.html
       output: web, pdf
-
-
-
-# Copyright 2021 Google LLC

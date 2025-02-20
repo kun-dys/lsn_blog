@@ -22,5 +22,18 @@ topnav_dropdowns:
           url: /p1_landing_page.html
         - title: Product 2
           url: /p2_landing_page.html
-
+      
+    - title: Language
+      folderitems:
+      
+        - title: English
+          url: /index.html
+        - title: Spanish
+          url: /index-Spanish.html
+        - title: Russian
+          url: /index-Russian.html
+        - title: Arabic
+          url: /index-Arabic.html
+        - title: French
+          url: /index-French.html
 # Copyright 2021 Google LLC

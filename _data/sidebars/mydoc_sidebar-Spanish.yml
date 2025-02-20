@@ -2,7 +2,7 @@
 
 entries:
 - title: sidebar
-  product: Navigation
+  product: Navegación
   version: 
   folders:
 
@@ -19,88 +19,88 @@ entries:
       output: pdf
       type: frontmatter
 
-  - title: Overview
+  - title: Resumen
     output: web, pdf
     folderitems:
 
-    - title: Get started
+    - title: Comenzar
       url: /index.html
       output: web, pdf
       type: homepage
 
-    - title: Introduction
+    - title: Introducción
       url: /mydoc_introduction.html
       output: web, pdf
 
-    - title: Support
+    - title: Soporte
       url: /mydoc_support.html
       output: web, pdf
 
-  - title: Push Table Saw Introduction
+  - title: Sierra de mesa con empuje
     output: web, pdf
     folderitems:
 
-    - title: Detailed analysis
+    - title: Análisis detallado
       url: /mydoc_release_notes_60.html
       output: web, pdf
 
-    - title: Purchase Guide
+    - title: Guía de compra
       url: /mydoc_release_notes_50.html
       output: web, pdf
 
-  - title: Round Rod Machine Introduction
+  - title: Máquina para varillas redondas
     output: web, pdf
     folderitems:
 
-    - title: Detailed analysis
+    - title: Análisis detallado
       url: /mydoc_about_ruby_gems_etc.html
       output: web, pdf
 
-    - title: Video Demo
+    - title: Demostración en video
       url: /mydoc_install_jekyll_on_mac.html
       output: web, pdf
 
-  - title: Woodworking Planer vs Band Saw
+  - title: Cepillo de carpintería vs Sierra de cinta
     output: web, pdf
 
     folderitems:
-    - title: Comparative analysis
+    - title: Análisis comparativo
       url: /mydoc_pages.html
       output: web, pdf
 
-    - title: Purchase suggestions
+    - title: Sugerencias de compra
       url: /mydoc_posts.html
       output: web, pdf
 
-  - title: Furniture Factory Equipment
+  - title: Equipos para fábrica de muebles
     output: web, pdf
 
     folderitems:
-    - title: Equipment combination solution
+    - title: Solución de combinación de equipos
       url: /mydoc_sidebar_navigation.html
       output: web, pdf
 
-    - title: Actual cases
+    - title: Casos reales
       url: /mydoc_yaml_tutorial.html
       output: web, pdf
 
-  - title: Sander + tenon opening machine
+  - title: Lijadora + máquina de abertura de espiga
     output: web, pdf
 
     folderitems:
-    - title: Brief introduction
+    - title: Breve introducción
       url: /mydoc_adding_tooltips.html
       output: web, pdf
 
-    - title: Applicable industries
+    - title: Industrias aplicables
       url: /mydoc_alerts.html
       output: web, pdf
 
-  - title: Customer FAQ
+  - title: Preguntas frecuentes de los clientes
     output: web, pdf
 
     folderitems:
-    - title: Interactive Q&A
+    - title: Preguntas y respuestas interactivas
       url: /mydoc_commenting_on_files.html
       output: web, pdf
 
